@@ -2,10 +2,10 @@ import React, { Component } from 'react';
 import AstronomyContainer from './components/AstronomyContainer';
 
 
-const hello = () => {
+const App = () => {
   return (
     <AstronomyContainer />
   )
 }
 
-export default hello;
+export default App;
